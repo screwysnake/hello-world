@@ -32,3 +32,9 @@ python decrypt.py password output input_recuperat.txt
 *<p align="center"><a>FMI UniBuc 2021</a></p>*
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+Welcome to my README!
+
+<div align="center">
+    <img src="example.svg" width="400" height="400" alt="css-in-readme">
+</div>
