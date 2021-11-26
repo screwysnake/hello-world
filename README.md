@@ -14,10 +14,11 @@ Choose a password and run the python script as shown below
   *&nbsp;&nbsp;&nbsp;&nbsp; // instead of 'password', write your own chosen password*
 
 ## Encryption
-`#00ff00`
+
 ```bash
 python encrypt.py password input.txt output
 ```
+
 
 ## Decryption
 ```bash
